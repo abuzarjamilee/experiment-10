@@ -90,6 +90,7 @@ int main()
     swapr(pa,pb);
     
 }
+```
 outpute ![image](https://github.com/user-attachments/assets/5744569d-a3b9-4639-ab43-d07796558456)
 ![image](https://github.com/user-attachments/assets/21020783-9865-4b34-b0c7-e87d287247ca)
 
