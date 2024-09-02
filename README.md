@@ -19,7 +19,8 @@ call by Call by Reference
 
 code:
 a.
-'#include <iostream>'
+'''cpp
+#include <iostream>'
 using namespace std;
 
 //call by value
@@ -51,6 +52,7 @@ int main()
 }
 
 b.
+'''cpp
 #include <iostream>
 using namespace std;
 
