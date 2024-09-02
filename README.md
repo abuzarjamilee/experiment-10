@@ -4,7 +4,7 @@ To study and implement Pointer Operations (call by value and call by reference)
 
 Theory:
 There are two ways to call a variable to a function for various operations.
-
+```
  call by value 
 1)A method of passing arguments to a function where the actual value is passed.
 2)Does not affect the original variable.
@@ -19,6 +19,7 @@ call by Call by Reference
 
 code:
 a.
+```
 ```
 
 #include <iostream>'
