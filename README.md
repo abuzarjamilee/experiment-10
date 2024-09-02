@@ -19,7 +19,7 @@ call by Call by Reference
 
 code:
 a.
-'''cpp
+
 #include <iostream>'
 using namespace std;
 
